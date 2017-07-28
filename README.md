@@ -14,3 +14,5 @@ cd zwitterion-example
 npm install
 npm start
 ```
+
+Now open up a browser and point it to `http://localhost:8080`.

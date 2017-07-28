@@ -4,7 +4,7 @@ An example application built with the help of Zwitterion. TypeScript, ES6, async
 
 ## Live Demo
 
-Check out the live demo in production. The application was built statically with `zwitterion --build-static` and served up on a CDN: 
+Check out the live demo in production. The application was built statically with `zwitterion --build-static` and served up on a CDN: TODO add the URL
 
 ## Development
 

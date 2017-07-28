@@ -1,6 +1,6 @@
 {
   "dependencies": {},
   "devDependencies": {
-    "zwitterion": "^0.12.4"
+    "zwitterion": "^0.12.5"
   }
 }

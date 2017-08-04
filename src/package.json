@@ -2,8 +2,9 @@
   "dependencies": {
     "@webcomponents/webcomponentsjs": "^1.0.5",
     "react": "^15.6.1",
-    "react-dom": "^15.6.1",
-    "zwitterion": "^0.14.5"
+    "react-dom": "^15.6.1"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "zwitterion": "^0.14.6"
+  }
 }

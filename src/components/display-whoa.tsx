@@ -13,5 +13,5 @@ class DisplayWhoa extends React.Component {
 
 ReactDOM.render(
     <DisplayWhoa />,
-    document.getElementById('display-whoa')
+    document.querySelector('display-whoa')
 );

@@ -11,5 +11,5 @@ class DisplayGoodDay extends React.Component {
 
 ReactDOM.render(
     <DisplayGoodDay />,
-    document.getElementById('display-good-day')
+    document.querySelector('display-good-day')
 );

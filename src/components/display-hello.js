@@ -4,6 +4,7 @@ class DisplayHello extends HTMLElement {
     connectedCallback() {
         this.innerHTML = `
             <div>${sayHello()}</div>
+            <br>
         `;
     }
 }

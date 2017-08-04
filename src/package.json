@@ -1,5 +1,8 @@
 {
-  "dependencies": {},
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  },
   "devDependencies": {
     "zwitterion": "^0.14.1"
   }

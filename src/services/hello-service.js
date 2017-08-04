@@ -1,3 +1,3 @@
 export function sayHello() {
-    return 'Hello!';
+    return 'Hello! I am a web component written with JavaScript';
 }

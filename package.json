@@ -16,5 +16,6 @@
   "bugs": {
     "url": "https://github.com/lastmjs/zwitterion-example/issues"
   },
-  "homepage": "https://github.com/lastmjs/zwitterion-example#readme"
+  "homepage": "https://github.com/lastmjs/zwitterion-example#readme",
+  "dependencies": {}
 }

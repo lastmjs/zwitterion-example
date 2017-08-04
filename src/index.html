@@ -2,12 +2,19 @@
 
 <html>
     <head>
-        <script src="components/component-one.ts"></script>
-        <script src="components/component-two.ts"></script>
+        <script src="lib/alert.js"></script>
+        <script type="module" src="components/display-hello.js"></script>
+        <script type="module" src="components/display-goodbye.ts"></script>
+        <!-- <script src="components/component-three.ts"></script> -->
+        <!-- <script src="components/component-four.ts"></script> -->
     </head>
 
     <body>
-        <component-one></component-one>
-        <component-two></component-two>
+        <script>
+            Alert.performAlert('You are about to experience the power of Zwitterion');
+        </script>
+
+        <display-hello></display-hello>
+        <display-goodbye></display-goodbye>
     </body>
 </html>

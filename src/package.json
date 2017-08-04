@@ -4,6 +4,6 @@
     "react-dom": "^15.6.1"
   },
   "devDependencies": {
-    "zwitterion": "^0.14.1"
+    "zwitterion": "^0.14.3"
   }
 }

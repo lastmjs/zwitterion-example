@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@webcomponents/webcomponentsjs": "^1.0.5",
     "react": "^15.6.1",
     "react-dom": "^15.6.1"
   },

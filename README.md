@@ -1,6 +1,6 @@
 # Zwitterion Example
 
-An example application built with the help of Zwitterion. TypeScript, ES6, async/await, ES modules, Object spread...but no complicated build step. The TypeScript files were referenced directly from `<script>` tags in the client's HTML.
+An example application built with the help of Zwitterion. ES6 and beyond, JSX, TypeScript, TSX, async/await, ES modules, Object spread...but no complicated build step. All files are referenced directly from `<script>` tags in the client's HTML.
 
 ## Live Demo
 
